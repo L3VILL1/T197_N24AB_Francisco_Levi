@@ -8,7 +8,10 @@ José Carlos Soares Neto 2325673
 Descrição: Os estagiários (cliente) registram o horário de início e término do
 trabalho na aplicação. O usuário realiza o próprio cadastro para usar os recursos
 da aplicação. O registro do horário deve ser realizado marcando as horas e a
-data
+data  
+[Requisitos- Área Jurídica - P.pptx.pdf](https://github.com/user-attachments/files/19172068/Requisitos-.Area.Juridica.-.P.pptx.pdf)  
+[Projetos - Área Jurídica.pptx (1).pdf](https://github.com/user-attachments/files/19172070/Projetos.-.Area.Juridica.pptx.1.pdf)  
+
 
 1) Como garantir que o estágiario realmente esta trabalhando?  
    * QR code no local  
