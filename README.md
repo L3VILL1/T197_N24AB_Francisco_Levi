@@ -9,3 +9,22 @@ Descrição: Os estagiários (cliente) registram o horário de início e términ
 trabalho na aplicação. O usuário realiza o próprio cadastro para usar os recursos
 da aplicação. O registro do horário deve ser realizado marcando as horas e a
 data
+
+1) Como garantir que o estágiario realmente esta trabalhando?  
+   * QR code no local  
+   * Conectar com a wifi  
+   * Geolocalização  
+   * Tirar foto no local
+     
+2) Quantos pontos de registro o estagiário deve fazer com base na sua carga horária?  
+   ex. se for 4 horas é apenas 2 pontos, se for 6 seriam 4. etc
+   
+4) O estagiário deve ser capaz de acompanhar sua frequência?
+  
+5) Qual a carga horária dos estagiários?
+   
+6) Quais informações são relevantes para o registro do estagiário?  
+  
+7) O usuário vai poder editar os pontos de entrada e saída após o registro? Se sim, até o final do dia? da semana? do mês?
+   
+   
