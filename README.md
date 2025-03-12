@@ -13,9 +13,9 @@ data
 
 1) Vai precisar de uma maneira de verificar que o estágiario realmente esta trabalhando?  
    se sim como garantir que o estágiario realmente esta trabalhando?  
-   * QR code no local  
-   * Tirar foto no local
-   * gerar um numero aleatorio no celular do administrador para o estágiario colocar no celular
+   - [ ] QR code no local.
+   - [ ] tirar foto no local.
+   - [ ] gerar um numero aleatório no celular do administrador para o estágiario colocar no celular.
      
 2) Quantos pontos de registro o estagiário deve fazer com base na sua carga horária?  
    ex. se for 4 horas é apenas 2 pontos, se for 6 seriam 4. etc
