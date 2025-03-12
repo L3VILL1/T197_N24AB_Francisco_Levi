@@ -21,11 +21,13 @@ data
 4) Qual a carga horária dos estagiários?  
 5) Existem estagiário com cargas horárias diferentes?  
   
-6) O estagiário deve ser capaz de acompanhar sua frequência? 
+6) O estagiário deve ser capaz de acompanhar sua frequência?
+
+7) O sistema deve ser capaz de visualizar quanta horas o estagiario trabalhou?
   
-7) O usuário vai poder editar os pontos de entrada e saída após o registro? Se sim, até o final:
+8) O usuário vai poder editar os pontos de entrada e saída após o registro? Se sim, até o final:
    - [ ] do dia.
    - [ ] da semana.
    - [ ] do mês.  
 
-8) Em caso de atraso o usuário pode inserir uma justificativa? Se sim, ele vai escrever a justificativa ou vai ter uma lista de opções?  
+9) Em caso de atraso o usuário pode inserir uma justificativa? Se sim, ele vai escrever a justificativa ou vai ter uma lista de opções?  
