@@ -26,4 +26,6 @@ data
   
 5) Qual a carga horária dos estagiários?
   
-6) O usuário vai poder editar os pontos de entrada e saída após o registro? Se sim, até o final do dia? da semana? do mês?
+6) O usuário vai poder editar os pontos de entrada e saída após o registro? Se sim, até o final do dia? da semana? do mês?  
+
+7) 
