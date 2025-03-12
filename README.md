@@ -14,7 +14,7 @@ X = perguntas já feitas
 1) Vai precisar de uma maneira de verificar que o estágiario realmente esta trabalhando?  
    se sim como garantir que o estágiario realmente esta trabalhando?  
    - [ ] tirar foto no local.
-     
+   - [ ] VPN  
 2) Quantos pontos de registro o estagiário deve fazer com base na sua carga horária?  
    ex. se for 4 horas é apenas 2 pontos, se for 6 seriam 4. etc
    
