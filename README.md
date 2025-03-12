@@ -12,12 +12,11 @@ data
 [Requisitos- Área Jurídica - P.pptx.pdf](https://github.com/user-attachments/files/19172068/Requisitos-.Area.Juridica.-.P.pptx.pdf)  
 [Projetos - Área Jurídica.pptx (1).pdf](https://github.com/user-attachments/files/19172070/Projetos.-.Area.Juridica.pptx.1.pdf)  
 
-
-1) Como garantir que o estágiario realmente esta trabalhando?  
+1) Vai precisar de uma maneira de verificar que o estágiario realmente esta trabalhando?  
+   se sim como garantir que o estágiario realmente esta trabalhando?  
    * QR code no local  
-   * Conectar com a wifi  
-   * Geolocalização  
    * Tirar foto no local
+   * gerar um numero aleatorio no celular do administrador para o estágiario colocar no celular
      
 2) Quantos pontos de registro o estagiário deve fazer com base na sua carga horária?  
    ex. se for 4 horas é apenas 2 pontos, se for 6 seriam 4. etc
@@ -31,4 +30,6 @@ data
    - [ ] da semana.
    - [ ] do mês.  
 
-8) 
+8) Em caso de atraso o usuário pode inserir uma justificativa?
+
+9) O sistema indica opções para registrar o atraso no ponto? ex. esquecimento, sistema indisponível.
