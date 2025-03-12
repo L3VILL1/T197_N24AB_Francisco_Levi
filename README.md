@@ -13,22 +13,19 @@ data
 
 1) Vai precisar de uma maneira de verificar que o estágiario realmente esta trabalhando?  
    se sim como garantir que o estágiario realmente esta trabalhando?  
-   - [ ] QR code no local.
    - [ ] tirar foto no local.
-   - [ ] gerar um numero aleatório no celular do administrador para o estágiario colocar no celular.
      
 2) Quantos pontos de registro o estagiário deve fazer com base na sua carga horária?  
    ex. se for 4 horas é apenas 2 pontos, se for 6 seriam 4. etc
    
-4) O estagiário deve ser capaz de acompanhar sua frequência?
+4) Qual a carga horária dos estagiários?  
+5) Existem estagiário com cargas horárias diferentes?  
   
-5) Qual a carga horária dos estagiários?
+6) O estagiário deve ser capaz de acompanhar sua frequência? 
   
-6) O usuário vai poder editar os pontos de entrada e saída após o registro? Se sim, até o final:
+7) O usuário vai poder editar os pontos de entrada e saída após o registro? Se sim, até o final:
    - [ ] do dia.
    - [ ] da semana.
    - [ ] do mês.  
 
-8) Em caso de atraso o usuário pode inserir uma justificativa?
-
-9) O sistema indica opções para registrar o atraso no ponto? ex. esquecimento, sistema indisponível.
+8) Em caso de atraso o usuário pode inserir uma justificativa? Se sim, ele vai escrever a justificativa ou vai ter uma lista de opções?  
