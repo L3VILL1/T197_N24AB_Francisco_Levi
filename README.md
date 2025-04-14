@@ -32,4 +32,8 @@ X = perguntas já feitas
    - [ ] da semana.
    - [ ] do mês.  
 
-9) Em caso de atraso o usuário pode inserir uma justificativa na solicitação? Se sim, ele vai escrever a justificativa ou vai ter uma lista de opções?  
+9) Em caso de atraso o usuário pode inserir uma justificativa na solicitação? Se sim, ele vai escrever a justificativa ou vai ter uma lista de opções?
+
+https://www.figma.com/design/FwojBUe1EfycweLJCE5AcT/Untitled?node-id=3-6&p=f&t=9qGQiwScaxfCNvRB-0
+https://github.com/PedroPucci/-DiscplinaMobileFrontNoite
+https://github.com/PedroPucci/-DiscplinaMobileFrontNoite
