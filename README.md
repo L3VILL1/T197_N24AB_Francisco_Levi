@@ -1,39 +1,61 @@
-# [Link Projeto Figma](https://www.figma.com/design/FwojBUe1EfycweLJCE5AcT/Untitled?node-id=3-6&p=f&t=BDtVMLjWop2r7iKR-0)
+# T197-83 – Desenvolvimento de Plataformas Móveis
 
-# T197_N24AB_Francisco_Levi
-Francisco Levi Dantas Gomes - 2117066  
-Luiz Eduardo Bastos Lima - 2325755  
-Guilherme Kauai Dos Anjos Palmeira - 2322710  
-Pedro Ighor Holanda Pucci - 0910876  
-# Projeto 1: Aplicação Registro de Ponto (lado cliente)
-Descrição: Os estagiários (cliente) registram o horário de início e término do
-trabalho na aplicação. O usuário realiza o próprio cadastro para usar os recursos
-da aplicação. O registro do horário deve ser realizado marcando as horas e a
-data  
-[Requisitos- Área Jurídica - P.pptx.pdf](https://github.com/user-attachments/files/19172068/Requisitos-.Area.Juridica.-.P.pptx.pdf)  
-[Projetos - Área Jurídica.pptx (1).pdf](https://github.com/user-attachments/files/19172070/Projetos.-.Area.Juridica.pptx.1.pdf)  
-X = perguntas já feitas
-1) Vai precisar de uma maneira de verificar que o estágiario realmente esta trabalhando?  
-   se sim como garantir que o estágiario realmente esta trabalhando?  
-   - [ ] tirar foto no local.
-   - [ ] VPN  
-2) Quantos pontos de registro o estagiário deve fazer com base na sua carga horária?  
-   ex. se for 4 horas é apenas 2 pontos, se for 6 seriam 4. etc
-   
-4) Qual a carga horária dos estagiários?  X
-5) Existem estagiário com cargas horárias diferentes?  X
-  
-6) O estagiário deve ser capaz de acompanhar sua frequência?
+---
 
-7) O sistema deve ser capaz de visualizar quanta horas o estagiario trabalhou?
-  
-8) O usuário vai poder mandar uma solicitação ao administrador para editar os pontos de entrada e saída após o registro? Se sim, até quando o estágiario vai poder mandar a solicitação?
-   - [ ] do dia.
-   - [ ] da semana.
-   - [ ] do mês.  
+## 👥 Membros do Time
+- **Francisco Levi Dantas Gomes** – 2117066  
+- **Luiz Eduardo Bastos Lima** – 2325755  
+- **Guilherme Kauai Dos Anjos Palmeira** – 2322710  
+- **Pedro Ighor Holanda Pucci** – 0910876  
 
-9) Em caso de atraso o usuário pode inserir uma justificativa na solicitação? Se sim, ele vai escrever a justificativa ou vai ter uma lista de opções?
+---
 
-https://www.figma.com/design/FwojBUe1EfycweLJCE5AcT/Untitled?node-id=3-6&p=f&t=9qGQiwScaxfCNvRB-0
-https://github.com/PedroPucci/-DiscplinaMobileFrontNoite
-https://github.com/PedroPucci/-DiscplinaMobileFrontNoite
+## 📌 Projeto 1: Aplicação de Registro de Ponto (Lado Cliente)
+
+### Descrição
+Os estagiários (clientes) registram os horários de início e término de suas jornadas de trabalho na aplicação. O próprio usuário realiza o cadastro para utilizar os recursos disponíveis. O registro deve incluir **data e hora**.
+
+### 📎 Arquivos de referência
+- [Requisitos - Área Jurídica (P.pptx.pdf)](https://github.com/user-attachments/files/19172068/Requisitos-.Area.Juridica.-.P.pptx.pdf)  
+- [Projetos - Área Jurídica.pptx (1).pdf](https://github.com/user-attachments/files/19172070/Projetos.-.Area.Juridica.pptx.1.pdf)
+
+> 🔹 **X = perguntas já respondidas**
+
+---
+
+### ❓ Questões de Requisitos
+
+1. **Será necessário validar se o estagiário realmente está trabalhando?**  
+   Se sim, como garantir essa verificação?  
+   - [ ] Foto no local  
+   - [ ] Conexão via VPN  
+
+2. **Quantos pontos de registro o estagiário deve fazer, com base na sua carga horária?**  
+   _Exemplo: Para 4 horas → 2 pontos. Para 6 horas → 4 pontos, etc._
+
+3. **Qual é a carga horária dos estagiários?** ❌
+
+4. **Existem estagiários com cargas horárias diferentes?** ❌
+
+5. **O estagiário poderá acompanhar sua própria frequência?**
+
+6. **O sistema deve permitir que o estagiário visualize a quantidade total de horas trabalhadas?**
+
+7. **Será possível que o estagiário solicite a alteração dos registros de ponto (entrada/saída)?**  
+   Se sim, até quando ele poderá fazer essa solicitação?  
+   - [ ] No mesmo dia  
+   - [ ] Dentro da semana  
+   - [ ] Até o final do mês  
+
+8. **Em caso de atraso, o estagiário poderá justificar?**  
+   Se sim, a justificativa será:  
+   - [ ] Um campo de texto livre  
+   - [ ] Seleção de opções predefinidas  
+
+---
+
+## 🔗 Links do Projeto
+
+- [🔷 Link para o Projeto no Figma](https://www.figma.com/design/FwojBUe1EfycweLJCE5AcT/Untitled?node-id=3-6&p=f&t=BDtVMLjWop2r7iKR-0)  
+- [🟦 Link para o Repositório Frontend (GitHub)](https://github.com/PedroPucci/-DiscplinaMobileFrontNoite)  
+- [🟨 Link para o Repositório Backend (GitHub)](https://github.com/PedroPucci/-DiscplinaMobileFrontNoite)  
