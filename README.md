@@ -58,4 +58,4 @@ Os estagiários (clientes) registram os horários de início e término de suas 
 
 - [🔷 Link para o Projeto no Figma](https://www.figma.com/design/FwojBUe1EfycweLJCE5AcT/Untitled?node-id=3-6&p=f&t=BDtVMLjWop2r7iKR-0)  
 - [🟦 Link para o Repositório Frontend (GitHub)](https://github.com/PedroPucci/-DiscplinaMobileFrontNoite)  
-- [🟨 Link para o Repositório Backend (GitHub)](https://github.com/PedroPucci/-DiscplinaMobileFrontNoite)  
+- [🟨 Link para o Repositório Backend (GitHub)](https://github.com/PedroPucci/DiscplinaMobileNoite)  
